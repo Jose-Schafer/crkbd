@@ -1,6 +1,8 @@
 # My Corne Keyboard build
 
-[!Crkbd](./assets/build.png "Crkbd")
+![Crkbd](./assets/build.jpg "Crkbd")
+![Front](./assets/Front.jpg "Crkbd")
+![Back](./assets/Back.jpg "Crkbd")
 
 Pieces:
 1. Otemu brown switches https://es.aliexpress.com/item/1005002378701948.html?spm=a2g0o.order_list.0.0.d42e194d7VWe7X&gatewayAdapt=glo2esp
@@ -16,7 +18,7 @@ Instructions
 1. 3d Print the case for the CRKBD. https://www.thingiverse.com/thing:4459741
 1. Follow this solder guide, but I will give list here the most important steps. https://github.com/foostan/crkbd/blob/main/corne-classic/doc/buildguide_en.md
     1. Solder diodes as indicated in the picture (Make sure that they are placed in the right direction given their polarity)
-[!Diodes](./assets/Diodes.png "Diodes")   
+![Diodes](./assets/Diodes.png "Diodes")   
     1. Flash ProMicros before soldering to make sure they are alright. Desoldering ProMicros is really hard and I say it by experience, so please check that they are ok before soldering and make sure that u are using the right soldering paste for electronics (Flux). 
     **I made the nooby mistake to use a solder paste not made for electronics. The paste produced bridges between different pins on the ProMicros resulting in malfunctioning and some little smoke. After going to the nearest electronic store and habing endured a couple of laughs they told me that the right paste to use was one in flux made specifically for electronics, and that I had to clean my hole build with Isopropilic Alcohol and after that let it dry exposed to the sun.
 
