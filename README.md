@@ -2,10 +2,9 @@
 
 ![Crkbd](./assets/Build.jpg "Crkbd")
 ![Front](./assets/Front.jpg "Crkbd")
-<img src="./assets/Front.jpg" width="100" height="100">
 ![Back](./assets/Back.jpg "Crkbd")
 
-Pieces:
+## Parts:
 1. Otemu brown switches https://es.aliexpress.com/item/1005002378701948.html?spm=a2g0o.order_list.0.0.d42e194d7VWe7X&gatewayAdapt=glo2esp
 1. Headphone Female Audio Connector Socket https://www.aliexpress.com/item/32869968774.html?spm=a2g0o.order_list.0.0.d42e194d7VWe7X&gatewayAdapt=glo2esp
 1. Headphone Male Audio Aux TRRS https://www.aliexpress.com/item/1005001802977701.html?spm=a2g0o.order_list.0.0.d42e194d7VWe7X
@@ -15,7 +14,7 @@ Pieces:
 1. Kit PCB Corne Classic Negro
 
 
-Instructions
+## Instructions
 1. 3d Print the case for the CRKBD. https://www.thingiverse.com/thing:4459741
 1. Follow this solder guide, but I will give list here the most important steps. https://github.com/foostan/crkbd/blob/main/corne-classic/doc/buildguide_en.md
     1. Solder diodes as indicated in the picture (Make sure that they are placed in the right direction given their polarity)
@@ -33,7 +32,7 @@ If you have to remove something please use Copper coils to forma a braid or use 
     1. Turn the PCB around and the case and switches with it to make the pins point upwards.
     1. Solder the pins of the switches to the PCB.
 
-Tips:
+## Tips:
 * Please check that you are using the right soldering paste for electronics (Flux)
 * Flash ProMicros before soldering to make sure they are alright.
 * Use the right tools for the job. 
@@ -43,7 +42,7 @@ Tips:
     * Soldering paste for electronics with flux.
 * At first I printed on paper the Distribution.docx and wrote over it all my keys.
  
-Flashing the ProMicros
+## Flashing the ProMicros
 * Configuration page: https://config.qmk.fm/#/crkbd/rev1/LAYOUT_split_3x6_3
 * Software to flash the ProMicros: https://github.com/qmk/qmk_toolbox/releases (Same one that is inside this repository)
 1. First connect the ProMicro using a MicroUSB cable
