@@ -1,7 +1,8 @@
 # My Corne Keyboard build
 
-![Crkbd](./assets/build.jpg "Crkbd")
+![Crkbd](./assets/Build.jpg "Crkbd")
 ![Front](./assets/Front.jpg "Crkbd")
+<img src="./assets/Front.jpg" width="100" height="100">
 ![Back](./assets/Back.jpg "Crkbd")
 
 Pieces:
