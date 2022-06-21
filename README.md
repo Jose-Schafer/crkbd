@@ -19,9 +19,9 @@
 1. Follow this solder guide, but I will give list here the most important steps. https://github.com/foostan/crkbd/blob/main/corne-classic/doc/buildguide_en.md
     1. Solder diodes as indicated in the picture (Make sure that they are placed in the right direction given their polarity)
 ![Diodes](./assets/Diodes.png "Diodes")   
-    1. Flash ProMicros before soldering to make sure they are alright. Desoldering ProMicros is really hard and I say it by experience, so please check that they are ok before soldering and make sure that u are using the right soldering paste for electronics (Flux). 
-        **I made the nooby mistake to use a solder paste not made for electronics. The paste produced bridges between different pins on the ProMicros resulting in malfunctioning and some little smoke. After going to the nearest electronic store and having endured a couple of laughs they told me that the right paste to use was one in flux made specifically for electronics, and that I had to clean my hole build with Isopropilic Alcohol and after that let it dry exposed to the sun.
-        That mistake cost me two ProMicros because I first thought there was something going on with my soldering and given they are extreamly hard to remove I broke both of them on the removing process.
+    1. Flash ProMicros before soldering to make sure they are alright. Desoldering ProMicros is really hard and I say it by experience, so please check that they are ok before soldering and make sure that you are using the right soldering paste for electronics (Flux). 
+        **I made the nooby mistake to use a solder paste not made for electronics. The paste produced bridges between different pins on the ProMicros resulting in malfunctioning and some little smoke. After going to the nearest electronic store, and having endured a couple of laughs, they told me that the right paste to use was one with flux made specifically for electronics. Therefore I had to clean my hole build with Isopropilic Alcohol and after that let it dry exposed to the sun.
+        That mistake cost me two ProMicros because I first thought there was something going on with my soldering, and given they are extreamly hard to remove, I broke both of them on the removing process.
         If you have to remove something please use Copper coils to form a braid or use a good Desoldering Pumb or Bulb.**
     1. Solder the Pro Micros after checking their correct position
     1. Solder the Female audo connectors and the reset button.
@@ -38,7 +38,7 @@
     * Copper coils
     * Tin welder with temperature control
     * Soldering paste for electronics with flux.
-* At first I printed on paper the Distribution.docx and wrote over it all my keys.
+* Getting used to the keyboard takes some days, so my advice is to print on paper the Distribution.docx and write over it all your keys.
  
 ## Flashing the ProMicros
 * Configuration page: https://config.qmk.fm/#/crkbd/rev1/LAYOUT_split_3x6_3
