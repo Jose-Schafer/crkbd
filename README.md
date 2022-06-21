@@ -48,3 +48,8 @@
 1. Select "Auto-Flash"
 1. Hold the Reset button on the PCB for 5 seconds and then release it.
 1. Wait for the flashing process to end.
+
+## Disclaimer
+* This is just my build and nither the code, the software or the 3d printed model were made by me, therefore I give all the links to the original creators. 
+* I am just writing some advices giving my expirience so others, hopefully, won't make the same mistakes. I am not an electronic expert or experience person, so take everything mentioned as a grain of salt in your building process.
+* I highly recommend you to buy the presoldered PCB because, unless you want a new challenge or to learn new skills, the money you will save doesn't worth the effort. 
