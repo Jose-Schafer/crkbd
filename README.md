@@ -51,5 +51,5 @@
 
 ## Disclaimer
 * This is just my build and neither the code, the software or the 3d printed model were made by me, therefore I give all the links to the original creators. 
-* I am just writing some advices giving my experience so others, hopefully, won't make the same mistakes. I am not an electronic expert or experience person, so take everything mentioned as a grain of salt in your building process.
+* I am just writing some advices giving my experience so others, hopefully, won't make the same mistakes. I am not an electronic expert or experienced person, so take everything mentioned as a grain of salt in your building process.
 * I highly recommend you to buy the presoldered PCB because, unless you want a new challenge or to learn new skills, the money you will save doesn't worth the effort. 
